@@ -41,6 +41,10 @@ background-color:#CGB887;
 
 
 /* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
+
 
 /********** Desktop devices only **********/
 @media (min-width: 992px) {
