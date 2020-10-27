@@ -20,6 +20,10 @@ text-align: centre;
   margin-top: 0;
   margin-bottom: 20px;
   }
+  p{
+  clear: right;
+  width: 90%;
+  }
 
 
   
