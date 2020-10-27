@@ -2,12 +2,18 @@
   box-sizing: border-box;
 }
 h1 {
+text-align: centre;
   margin-bottom: 15px;
 }
    h2{
     position: relative;
   top: 95px;
   left: 95px;
+  }
+  section{
+  border: 1px solid black;
+  overflow: auto;
+  background-color:grey;
   }
 
 
@@ -32,6 +38,8 @@ p {
   width: 50px;
   height: 50px;
 }
+#p3 {
+
 
 /* Simple Responsive Framework. */
 .row {
