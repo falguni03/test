@@ -11,7 +11,7 @@ h1 {
 
 body {
 	/*background-image: url("background.jpg");*/
-	background-color: #FEF5CA;
+	background-color: lightgrey;
 
 }
 
@@ -31,11 +31,11 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: lavender;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
-	color: black;
+	color: darkslateblue;
 	position: relative;
 	overflow: auto;
 }
@@ -45,7 +45,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family:Arial,sans-serif ;
+	font-family:Arial, Helvetica, sans-serif ;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -59,7 +59,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Ariel,sans-serif;
+	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -73,7 +73,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Ariel,sans-serif;
+	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -99,13 +99,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: blue;
+  color: aqua;
 }
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
-  color: yellow;
+  background-color: lavender;
+  color: darkslateblue
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -121,19 +121,19 @@ section {
 }
 
 .nav-brand {
-  color:white;
+  color: darkslateblue;
   font-size: 1.5em;
 }
 
 #nav-list {
-  color: white;
+  color: darkslateblue;
 }
 
 hr {
-  border-color: black;
+  border-color: darkslateblue;
 }
 
 .item {
-  color: yellow;
+  color: darkslateblue;
   font-size: 1.2em;
 }
