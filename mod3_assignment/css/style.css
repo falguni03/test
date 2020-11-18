@@ -6,12 +6,12 @@
 
 h1 {
 	font-family: Helvetica, sans-serif;
-	color: #000000;
+	color: brown;
 }
 
 body {
 	/*background-image: url("background.jpg");*/
-	background-color: lightgrey;
+	background-color: gold;
 
 }
 
@@ -31,11 +31,11 @@ p {
 
 section {
 	border:	1px;
-	background-color: lavender;
+	background-color: lightyellow;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
-	color: darkslateblue;
+	color: brown;
 	position: relative;
 	overflow: auto;
 }
@@ -99,17 +99,17 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: aqua;
+  color: gold;
 }
 
 #header-nav {
   border: 0;
-  background-color: lavender;
-  color: darkslateblue
+  background-color: lightyellow;
+  color: brown;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid blue;
+  border: 1px solid brown;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -117,23 +117,23 @@ section {
 }
 
 .nav-header {
-  background-color: blue;
+  background-color: lightyellow;
 }
 
 .nav-brand {
-  color: darkslateblue;
+  color: brown;
   font-size: 1.5em;
 }
 
 #nav-list {
-  color: darkslateblue;
+  color: brown;
 }
 
 hr {
-  border-color: darkslateblue;
+  border-color: gold;
 }
 
 .item {
-  color: darkslateblue;
+  color: brown;
   font-size: 1.2em;
 }
