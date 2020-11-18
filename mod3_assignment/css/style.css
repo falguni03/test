@@ -30,7 +30,7 @@ p {
 }
 
 section {
-	border:	1px solid black;
+	border:	1px;
 	background-color: lavender;
 	width: 100%;
 	height: auto;
